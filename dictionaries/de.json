@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "description": "Neue .zip Domains führen dazu, bösartige Files runterzuladen"
+  },
+  "hero": {
+    "title": "Pass Auf!",
+    "opener": "Neue .zip Domains lassen dich versehentlich bösartige Files runterladen"
+  },
+  "linkGame": {
+    "good": "gut",
+    "bad": "böse",
+    "headlineOne": "Findest du die",
+    "headlineTwo": "Links?",
+    "badResult": "Du solltest unten nochmal nachlesen",
+    "goodResult": "Gut gemacht!",
+    "correct": "richtig",
+    "retry": "nochmal"
+  },
+  "summary": {
+    "title": "Das musst du wissen",
+    "first": {
+      "title": "Halte Ausschau nach @",
+      "description": "Achte darauf, ob ein @-Zeichen kurz vor dem .zip steht."
+    },
+    "second": {
+      "title": "Hovere über Links",
+      "description": "Wenn du über den Link fährst, zeigt dir dein Browser in der linken unteren Ecke an, wohin der Link wirklich führt."
+    },
+    "third": {
+      "title": "Vorsicht bei E-Mails",
+      "description": "In E-Mails kann die Darstellung des Links manipuliert werden. Angreifer können so beispielsweise das @-Zeichen verstecken indem sie die Schriftgröße verkleinern."
+    },
+    "fourth": {
+      "title": "Slash ist nicht gleich Slash",
+      "paragraphOne": "Um irreführende Links zu erstellen, verwenden Angreifer die Unicode-Zeichen U+2044 ⁄ und U+2215 ∕ im Link.",
+      "paragraphTwo": "Diese Slashes unterscheiden sich vom echten Slash in Länge und Winkel."
+    }
+  },
+  "test": {
+    "title": "Teste einen Link",
+    "description": "Hier kannst du einen Link testen, gib ihn einfach unten ein",
+    "placeholder": "Füge hier einen Link ein...",
+    "safeLink": "Sicher",
+    "unsafeLink": "Unsicher",
+    "invalidLink": "falsches Format"
+  },
+  "about": {
+    "title": "Made with ❤️ an einem gemütlichen Wochenende",
+    "firstParagraph": "Teile diese Seite mit Freunden und Familie. Mit bösartigen Dateien ist nicht zu spaßen.",
+    "secondParagraph": "Auf Badfile.zip gibt's keine Werbung und kein Tracking. Diese Seite ist ",
+    "thirdParagraph": "War's interessant?",
+    "github": "open-source.",
+    "kofi": "Wenn ja, kannst mir gerne einen Kaffee spendieren ☕"
+  },
+  "sources": {
+    "title": "Mehr Infos und Quellen"
+  }
+}

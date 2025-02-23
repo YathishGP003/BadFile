@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "description": "New .zip domains trick people into downloading malicious files"
+  },
+  "hero": {
+    "title": "Watch Out!",
+    "opener": "New .zip domains trick people into downloading malicious files"
+  },
+  "linkGame": {
+    "good": "good",
+    "bad": "bad",
+    "headlineOne": "Can you spot",
+    "headlineTwo": "Links?",
+    "badResult": "read the summary below",
+    "goodResult": "Good Job!",
+    "correct": "correct",
+    "retry": "retry"
+  },
+  "summary": {
+    "title": "All you need to know",
+    "first": {
+      "title": "Look out for @ signs",
+      "description": "Check if there is an @ sign in front of the .zip portion of the link."
+    },
+    "second": {
+      "title": "Hover over Links",
+      "description": "Browsers display where a link leads in the lower left corner. "
+    },
+    "third": {
+      "title": "E-Mails require additional care",
+      "description": "E-Mails enable attackers to use a wide array of styling options. Attackers can change the font size of the @ sign and make it incredibly small. This results in an invisible @."
+    },
+    "fourth": {
+      "title": "Know your slashes",
+      "paragraphOne": "To craft a bad link, scammers need to use unicode characters U+2044 ⁄ and U+2215 ∕ in the link. They look slightly different to the correct slash /.",
+      "paragraphTwo": "The correct slash is slightly longer and has a different angle. The bad slash is shorter and has a steeper angle.",
+      "paragraphThree": "The correct slash is slightly longer and has a different angle. The bad slash is shorter and has a steeper angle."
+    }
+  },
+  "test": {
+    "title": "Test a link",
+    "description": "Feel free to check a link by entering it below",
+    "placeholder": "Paste your link here...",
+    "safeLink": "safe",
+    "unsafeLink": "unsafe",
+    "invalidLink": "invalid link"
+  },
+  "about": {
+    "title": "Made with ❤️ on a cozy weekend",
+    "firstParagraph": "Share this page. Tell your parents and friends. Bad files on your PC are bad times.",
+    "secondParagraph": "This page doesn’t track you. There are no ads.",
+    "thirdParagraph": "Had a good time?"
+  },
+  "sources": {
+    "title": "Further  readings & sources"
+  }
+}
